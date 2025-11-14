@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "nombre": "compu",
+        "descripcion": "iugfds",
+        "precio": 20000,
+        "stock": 1,
+        "categoria": "compu cheta"
+    },
+    {
+        "id": 2,
+        "nombre": "alfajor ",
+        "descripcion": "lo hizo angel",
+        "precio": 1000,
+        "stock": 10,
+        "categoria": "comida"
+    }
+]
